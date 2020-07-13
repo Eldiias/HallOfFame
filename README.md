@@ -28,7 +28,6 @@ Eldiias.
 ## Students and their repositories
 Student | GitHub | Cohort
 --- | --- | ---
-
 Ambre | https://github.com/AmbreP | May 2019
 Eléonore | https://github.com/EleonoreNrt/ | May 2019
 Jordan | https://github.com/jordanbaez | May 2019
