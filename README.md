@@ -17,13 +17,13 @@ Eldiias.
 * **June 2020:**  Pending...
 
 ## Data Paris - Academic Team
-- Armen Karapetyan
-- Sandeep Singh
-- Francklin Handou
-- Alexis Martin
-- Axel Cajselius
-- Shivalika Tanwar
-- Manohar Sitapati
+- [Armen Karapetyan](https://github.com/armenkrptn)
+- [Sandeep Singh](https://github.com/ssingh288)
+- [Francklin Handou])(https://www.linkedin.com/in/francklin-handou/)
+- [Alexis Martin](https://github.com/Alexis2507)
+- [Axel Cajselius](https://github.com/axeca)
+- [Shivalika Tanwar](https://github.com/shivalikatanwar)
+- [Manohar Sitapati](https://github.com/TheManohar)
 
 ## Students and their repositories
 Student | GitHub | Cohort
