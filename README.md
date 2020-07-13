@@ -19,7 +19,7 @@ Eldiias.
 ## Data Paris - Academic Team
 - [Armen Karapetyan](https://github.com/armenkrptn)
 - [Sandeep Singh](https://github.com/ssingh288)
-- [Francklin Handou])(https://www.linkedin.com/in/francklin-handou/)
+- [Francklin Handou](https://www.linkedin.com/in/francklin-handou/)
 - [Alexis Martin](https://github.com/Alexis2507)
 - [Axel Cajselius](https://github.com/axeca)
 - [Shivalika Tanwar](https://github.com/shivalikatanwar)
