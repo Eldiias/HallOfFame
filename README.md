@@ -26,35 +26,14 @@ Eldiias.
 - [Manohar Sitapati](https://github.com/TheManohar)
 
 ## Students and their repositories
+
+Below you can find alumni repositories that were updated at least once within the last 6 months. (Including the bootcamp period)
+
 Student | GitHub | Cohort
 --- | --- | ---
 Ambre | https://github.com/AmbreP | May 2019
-Eléonore | https://github.com/EleonoreNrt/ | May 2019
-Jordan | https://github.com/jordanbaez | May 2019
-Julia | https://github.com/JVBW | May 2019
-Marguerite | https://github.com/MargueriteV | May 2019
-Meriem | https://github.com/MeriemMar | May 2019
-Timothée | https://github.com/ciscogoya | May 2019
-Tom | https://github.com/TN1106 | May 2019
-Agathe | https://github.com/AAgathe | August 2019
-Alexis | https://github.com/Alexis2507 | August 2019
-Ana | https://github.com/ana-elena | August 2019
-Axel | https://github.com/axeca | August 2019
-Boris | https://github.com/BorisDarque | August 2019
-Claire | https://github.com/ClaireLemoine | August 2019
-Linh | https://github.com/linhh18 | August 2019
-Sarah | https://github.com/Sarahpl | August 2019
-Shivalika | https://github.com/shivalikatanwar | August 2019
-Archana | https://github.com/archanaVi | October 2019
-Deepika | https://github.com/Deepika-Vijay | October 2019
-Flora | https://github.com/FloraDelmas | October 2019
-Leila | https://github.com/CLeila | October 2019
 Marie | https://github.com/MarieLatt | October 2019
-Mathilde | https://github.com/Mathildehabib | October 2019
 Meliné | https://github.com/MelineM | October 2019
-Rafaela | https://github.com/Rafaela-TIRADO | October 2019
-Shadha | https://github.com/Shadha0806 | October 2019
-Slava | https://github.com/Slavulyaa | October 2019
 Abelia | https://github.com/abeliapetelle | January 2020
 Alexis | https://github.com/AlexisLacabane | January 2020
 Andre | https://github.com/andrevitta | January 2020
@@ -85,3 +64,33 @@ Sacha | https://github.com/sachadolle | June 2020
 Sandrine | https://github.com/srosamont | June 2020 
 Severine | https://github.com/hannahkusama | June 2020
 Sylvia | https://github.com/nclee17 | June 2020
+
+
+Below you can find those that were active more than 6 months ago.
+
+Student | GitHub | Cohort
+--- | --- | ---
+Eléonore | https://github.com/EleonoreNrt/ | May 2019
+Jordan | https://github.com/jordanbaez | May 2019
+Julia | https://github.com/JVBW | May 2019
+Marguerite | https://github.com/MargueriteV | May 2019
+Meriem | https://github.com/MeriemMar | May 2019
+Timothée | https://github.com/ciscogoya | May 2019
+Tom | https://github.com/TN1106 | May 2019
+Agathe | https://github.com/AAgathe | August 2019
+Alexis | https://github.com/Alexis2507 | August 2019
+Ana | https://github.com/ana-elena | August 2019
+Axel | https://github.com/axeca | August 2019
+Boris | https://github.com/BorisDarque | August 2019
+Claire | https://github.com/ClaireLemoine | August 2019
+Linh | https://github.com/linhh18 | August 2019
+Sarah | https://github.com/Sarahpl | August 2019
+Shivalika | https://github.com/shivalikatanwar | August 2019
+Archana | https://github.com/archanaVi | October 2019
+Deepika | https://github.com/Deepika-Vijay | October 2019
+Flora | https://github.com/FloraDelmas | October 2019
+Leila | https://github.com/CLeila | October 2019
+Mathilde | https://github.com/Mathildehabib | October 2019
+Rafaela | https://github.com/Rafaela-TIRADO | October 2019
+Shadha | https://github.com/Shadha0806 | October 2019
+Slava | https://github.com/Slavulyaa | October 2019
