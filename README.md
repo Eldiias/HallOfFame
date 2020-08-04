@@ -32,6 +32,7 @@ Below you can find alumni repositories that were updated at least once within th
 Student | GitHub | Cohort
 --- | --- | ---
 Ambre | https://github.com/AmbreP | May 2019
+Shivalika | https://github.com/shivalikatanwar | August 2019
 Marie | https://github.com/MarieLatt | October 2019
 Meliné | https://github.com/MelineM | October 2019
 Abelia | https://github.com/abeliapetelle | January 2020
@@ -85,7 +86,6 @@ Boris | https://github.com/BorisDarque | August 2019
 Claire | https://github.com/ClaireLemoine | August 2019
 Linh | https://github.com/linhh18 | August 2019
 Sarah | https://github.com/Sarahpl | August 2019
-Shivalika | https://github.com/shivalikatanwar | August 2019
 Archana | https://github.com/archanaVi | October 2019
 Deepika | https://github.com/Deepika-Vijay | October 2019
 Flora | https://github.com/FloraDelmas | October 2019
