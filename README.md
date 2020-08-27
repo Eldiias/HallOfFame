@@ -14,7 +14,8 @@ Eldiias.
 * **October 2019:** Mathilde Habib
 * **January 2020:** Gabrielle Béranger
 * **March 2020:** Camille Libert-Coubard
-* **June 2020:**  Pending...
+* **June 2020:**  Sylvia Lee
+* **August 2020** Pending...
 
 ## Data Paris - Academic Team
 - [Armen Karapetyan](https://github.com/armenkrptn)
