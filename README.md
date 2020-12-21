@@ -8,90 +8,91 @@ Eldiias.
 
 # Data Analytics bootcamp
 
-## Data Hackshow Winners
-* **May 2018:** Tom Nunziata
-* **August 2019:** Alexis Martin
-* **October 2019:** Mathilde Habib
-* **January 2020:** Gabrielle Béranger
-* **March 2020:** Camille Libert-Coubard
-* **June 2020:**  Sylvia Lee
-* **August 2020** Pending...
+| Cohort       | Name                   |
+|:-------------|:-----------------------|
+| May 2018     | Tom Nunziata           |
+| August 2019  | Alexis Martin          |
+| October 2019 | Mathilde Habib         |
+| January 2020 | Gabrielle Béranger     |
+| March 2020   | Camille Libert-Coubard |
+| June 2020    | Sylvia Lee             |
+| August 2020  | Tiago McDonald         |
+
 
 ## Data Paris - Academic Team
-- [Armen Karapetyan](https://github.com/armenkrptn)
-- [Sandeep Singh](https://github.com/ssingh288)
-- [Francklin Handou](https://www.linkedin.com/in/francklin-handou/)
-- [Alexis Martin](https://github.com/Alexis2507)
-- [Axel Cajselius](https://github.com/axeca)
-- [Shivalika Tanwar](https://github.com/shivalikatanwar)
-- [Manohar Sitapati](https://github.com/TheManohar)
+
+| Name             | URL                                           |
+|:-----------------|:----------------------------------------------|
+| Armen Karapetyan | https://github.com/armenkrptn                 |
+| Sandeep Singh    | https://github.com/ssingh288                  |
+| Francklin Handou | https://www.linkedin.com/in/francklin-handou/ |
+| Alexis Martin    | https://github.com/Alexis2507                 |
+| Axel Cajselius   | https://github.com/axeca                      |
+| Shivalika Tanwar | https://github.com/shivalikatanwar            |
+| Manohar Sitapati | https://github.com/TheManohar                 |
+| Sylvia Lee       | https://github.com/nclee17                    |
 
 ## Students and their repositories
 
 Below you can find alumni repositories that were updated at least once within the last 6 months. (Including the bootcamp period)
 
-Student | GitHub | Cohort
---- | --- | ---
-Ambre | https://github.com/AmbreP | May 2019
-Shivalika | https://github.com/shivalikatanwar | August 2019
-Marie | https://github.com/MarieLatt | October 2019
-Meliné | https://github.com/MelineM | October 2019
-Abelia | https://github.com/abeliapetelle | January 2020
-Alexis | https://github.com/AlexisLacabane | January 2020
-Andre | https://github.com/andrevitta | January 2020
-Charlotte | https://github.com/Charlotte-Ardaens | January 2020
-Christopher | https://github.com/cangeles14 | January 2020
-Gabrielle | https://github.com/gabrielleberanger | January 2020
-Miriam | https://github.com/miriamfc | January 2020
-Mykola | https://github.com/Aciago | January 2020
-Victor | https://github.com/VRFaille | January 2020
-Virginie | https://github.com/vibiii | January 2020
-Bernard | https://github.com/Berlione1 | March 2020
-Camille | https://github.com/Camillelib | March 2020
-Elise | https://github.com/esilesvn | March 2020
-François | https://github.com/wawa2102 | March 2020
-Jean-Baptiste | https://github.com/JBoissonnat | March 2020
-Jean-Denis | https://github.com/JeanDenisD | March 2020
-Ludivine | https://github.com/LudivineLacour | March 2020
-Lukas | https://github.com/Lukas-DH | March 2020
-Michael | https://github.com/Mike-Wenzell | March 2020
-Mohamad | https://github.com/MoeDougs | March 2020
-Nasser | https://github.com/naserfahsi | March 2020
-Safa | https://github.com/SafaEl31 | March 2020
-Amelie | https://github.com/amelie-vogel | June 2020
-Katarzyna | https://github.com/Kasia314 | June 2020
-Lucille | https://github.com/Lucille-Art | June 2020
-Manuela | https://github.com/BuenofM | June 2020
-Sacha | https://github.com/sachadolle | June 2020 
-Sandrine | https://github.com/srosamont | June 2020 
-Severine | https://github.com/hannahkusama | June 2020
-Sylvia | https://github.com/nclee17 | June 2020
-
+|   index | Name          | URL                                  | Cohort     |
+|--------:|:--------------|:-------------------------------------|:-----------|
+|       0 | Ambre         | https://github.com/AmbreP            | 2019-05-01 |
+|      17 | Archana       | https://github.com/archanaVi         | 2019-10-01 |
+|      18 | Deepika       | https://github.com/Deepika-Vijay     | 2019-10-01 |
+|      21 | Marie         | https://github.com/MarieLatt         | 2019-10-01 |
+|      22 | Mathilde      | https://github.com/Mathildehabib     | 2019-10-01 |
+|      23 | Meliné        | https://github.com/MelineM           | 2019-10-01 |
+|      27 | Abelia        | https://github.com/abeliapetelle     | 2020-01-01 |
+|      29 | Andre         | https://github.com/andrevitta        | 2020-01-01 |
+|      32 | Gabrielle     | https://github.com/gabrielleberanger | 2020-01-01 |
+|      34 | Mykola        | https://github.com/Aciago            | 2020-01-01 |
+|      35 | Victor        | https://github.com/VRFaille          | 2020-01-01 |
+|      39 | Elise         | https://github.com/esilesvn          | 2020-03-01 |
+|      41 | Jean-Baptiste | https://github.com/JBoissonnat       | 2020-03-01 |
+|      43 | Ludivine      | https://github.com/LudivineLacour    | 2020-03-01 |
+|      44 | Lukas         | https://github.com/Lukas-DH          | 2020-03-01 |
+|      46 | Mohamad       | https://github.com/MoeDougs          | 2020-03-01 |
+|      48 | Safa          | https://github.com/SafaEl31          | 2020-03-01 |
+|      49 | Amelie        | https://github.com/amelie-vogel      | 2020-06-01 |
+|      50 | Katarzyna     | https://github.com/Kasia314          | 2020-06-01 |
+|      51 | Lucille       | https://github.com/Lucille-Art       | 2020-06-01 |
+|      52 | Manuela       | https://github.com/BuenofM           | 2020-06-01 |
+|      53 | Sacha         | https://github.com/sachadolle        | 2020-06-01 |
+|      54 | Sandrine      | https://github.com/srosamont         | 2020-06-01 |
+|      55 | Severine      | https://github.com/hannahkusama      | 2020-06-01 |
+|      56 | Sylvia        | https://github.com/nclee17           | 2020-06-01 |
+|      57 | Arthur        | https://github.com/Arthur-Lapeyrere  | 2020-08-01 |
+|      58 | Aurore        | https://github.com/AuroreSupiot      | 2020-08-01 |
+|      59 | Diagou        | https://github.com/Diagb             | 2020-08-01 |
+|      60 | Etienne       | https://github.com/EtienneLeconte    | 2020-08-01 |
+|      61 | Geoffroy      | https://github.com/geoffroydelaroche | 2020-08-01 |
+|      62 | Igor          | https://github.com/igorshkokov       | 2020-08-01 |
+|      63 | Marie         | https://github.com/MarieNav          | 2020-08-01 |
+|      64 | Tatiana       | https://github.com/tatiana-martinez  | 2020-08-01 |
+|      65 | Thai Linh     | https://github.com/EricBui0201       | 2020-08-01 |
+|      66 | Tiago         | https://github.com/tmcdonald92       | 2020-08-01 |
 
 Below you can find those that were active more than 6 months ago.
 
-Student | GitHub | Cohort
---- | --- | ---
-Eléonore | https://github.com/EleonoreNrt/ | May 2019
-Jordan | https://github.com/jordanbaez | May 2019
-Julia | https://github.com/JVBW | May 2019
-Marguerite | https://github.com/MargueriteV | May 2019
-Meriem | https://github.com/MeriemMar | May 2019
-Timothée | https://github.com/ciscogoya | May 2019
-Tom | https://github.com/TN1106 | May 2019
-Agathe | https://github.com/AAgathe | August 2019
-Alexis | https://github.com/Alexis2507 | August 2019
-Ana | https://github.com/ana-elena | August 2019
-Axel | https://github.com/axeca | August 2019
-Boris | https://github.com/BorisDarque | August 2019
-Claire | https://github.com/ClaireLemoine | August 2019
-Linh | https://github.com/linhh18 | August 2019
-Sarah | https://github.com/Sarahpl | August 2019
-Archana | https://github.com/archanaVi | October 2019
-Deepika | https://github.com/Deepika-Vijay | October 2019
-Flora | https://github.com/FloraDelmas | October 2019
-Leila | https://github.com/CLeila | October 2019
-Mathilde | https://github.com/Mathildehabib | October 2019
-Rafaela | https://github.com/Rafaela-TIRADO | October 2019
-Shadha | https://github.com/Shadha0806 | October 2019
-Slava | https://github.com/Slavulyaa | October 2019
+|   index | Name       | URL                               | Cohort     |
+|--------:|:-----------|:----------------------------------|:-----------|
+|       1 | Eléonore   | https://github.com/EleonoreNrt    | 2019-05-01 |
+|       3 | Julia      | https://github.com/JVBW           | 2019-05-01 |
+|       4 | Marguerite | https://github.com/MargueriteV    | 2019-05-01 |
+|       5 | Meriem     | https://github.com/MeriemMar      | 2019-05-01 |
+|       6 | Timothée   | https://github.com/ciscogoya      | 2019-05-01 |
+|       7 | Tom        | https://github.com/TN1106         | 2019-05-01 |
+|       8 | Agathe     | https://github.com/AAgathe        | 2019-08-01 |
+|       9 | Alexis     | https://github.com/Alexis2507     | 2019-08-01 |
+|      11 | Axel       | https://github.com/axeca          | 2019-08-01 |
+|      12 | Boris      | https://github.com/BorisDarque    | 2019-08-01 |
+|      13 | Claire     | https://github.com/ClaireLemoine  | 2019-08-01 |
+|      14 | Linh       | https://github.com/linhh18        | 2019-08-01 |
+|      15 | Sarah      | https://github.com/Sarahpl        | 2019-08-01 |
+|      19 | Flora      | https://github.com/FloraDelmas    | 2019-10-01 |
+|      20 | Leila      | https://github.com/CLeila         | 2019-10-01 |
+|      24 | Rafaela    | https://github.com/Rafaela-TIRADO | 2019-10-01 |
+|      25 | Shadha     | https://github.com/Shadha0806     | 2019-10-01 |
+|      26 | Slava      | https://github.com/Slavulyaa      | 2019-10-01 |
