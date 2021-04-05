@@ -8,7 +8,7 @@ Eldiias.
 
 # Data Analytics bootcamp
 
-| 0                 | 1                                                                                                       |
+| Cohort            | Name                                                                                                    |
 |:------------------|:--------------------------------------------------------------------------------------------------------|
 | **May 2018**      | [Tom Nunziata](https://github.com/TN1106)                                                               |
 | **August 2019**   | [Alexis Martin](https://github.com/Alexis2507)                                                          |
