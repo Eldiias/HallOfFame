@@ -29,7 +29,7 @@ wins.to_markdown(index=False)
 text=f"""# Ironhack - Hall Of Fame
 
 Below you can find the list of people who became the new versions of themselves here, at Ironhack Paris.
-Warm hugs, congrats and thanks for your best performance! All the best and remember that 1% a day keeps unemployment away.
+Warm hugs, congrats and thanks for your best performance! All the best and remember that 1 kata a day keeps unemployment away.
 
 Eldiias.
 

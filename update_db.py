@@ -48,7 +48,8 @@ tot['Last_Update']=tot.URL.map(lambda text: re.findall('https://github.com/(.*)'
 tot.Last_Update=pd.to_datetime(tot.Last_Update)
 tot['Difference']=(datetime.now()-tot.Last_Update).dt.days.apply(lambda x: None if x>180 else x)
 newdf=tot.copy()
-newdf.dropna().drop(["Last_Update","Difference"], axis=1).to_sql("six_months", eng, if_exists="replace", index=False)
-newdf[newdf.Difference.isna()].drop(["Last_Update","Difference"], axis=1).to_sql("no_update", eng, if_exists="replace", index=False)
+newdf.Cohort = newdf.Cohort.dt.strftime('%b %Y')
+newdf.loc[newdf.Difference.isna(), 'Name':'Cohort'].to_sql("no_update", eng, if_exists = 'replace', index=False)
+newdf.loc[~newdf.Difference.isna(), 'Name':'Cohort'].to_sql("six_months", eng, if_exists = 'replace', index=False)
 
 
