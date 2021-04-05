@@ -8,18 +8,18 @@ Eldiias.
 
 # Data Analytics bootcamp
 
-| Cohort        | Name                                |
-|:--------------|:------------------------------------|
-| May 2018      | Tom Nunziata                        |
-| August 2019   | Alexis Martin                       |
-| October 2019  | Mathilde Habib                      |
-| January 2020  | Gabrielle Béranger                  |
-| March 2020    | Camille Libert-Coubard              |
-| June 2020     | Sylvia Lee                          |
-| August 2020   | Tiago McDonald                      |
-| November 2020 | Ludovica Di Silvestre, Thomas Chenu |
-| February 2021 | pending, TBA                        |
-| April 2021    | pending, TBA                        |
+| 0                 | 1                                                                                                       |
+|:------------------|:--------------------------------------------------------------------------------------------------------|
+| **May 2018**      | [Tom Nunziata](https://github.com/TN1106)                                                               |
+| **August 2019**   | [Alexis Martin](https://github.com/Alexis2507)                                                          |
+| **October 2019**  | [Mathilde Habib](https://github.com/Mathildehabib)                                                      |
+| **January 2020**  | [Gabrielle Béranger](https://github.com/gabrielleberanger)                                              |
+| **March 2020**    | [Camille Libert-Coubard](https://github.com/Camillelib)                                                 |
+| **June 2020**     | [Sylvia Lee](https://github.com/nclee17)                                                                |
+| **August 2020**   | [Tiago McDonald](https://github.com/tmcdonald92)                                                        |
+| **November 2020** | [Ludovica Di Silvestre](https://github.com/ludovicads), [Thomas Chenu](https://github.com/Thomas-chenu) |
+| **February 2021** | pending, TBA                                                                                            |
+| **April 2021**    | pending, TBA                                                                                            |
 
 
 ## Data Paris - Academic Team
