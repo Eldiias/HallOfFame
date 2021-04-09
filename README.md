@@ -8,7 +8,7 @@ Eldiias.
 
 # Data Analytics bootcamp
 
-| Cohort            | Name                                                                                                    |
+| 0                 | 1                                                                                                       |
 |:------------------|:--------------------------------------------------------------------------------------------------------|
 | **May 2018**      | [Tom Nunziata](https://github.com/TN1106)                                                               |
 | **August 2019**   | [Alexis Martin](https://github.com/Alexis2507)                                                          |
@@ -18,7 +18,7 @@ Eldiias.
 | **June 2020**     | [Sylvia Lee](https://github.com/nclee17)                                                                |
 | **August 2020**   | [Tiago McDonald](https://github.com/tmcdonald92)                                                        |
 | **November 2020** | [Ludovica Di Silvestre](https://github.com/ludovicads), [Thomas Chenu](https://github.com/Thomas-chenu) |
-| **February 2021** | pending, TBA                                                                                            |
+| **February 2021** | [Alan Perfettini](https://github.com/AxZxP), [Zenayela Soares](https://github.com/zenayela)             |
 | **April 2021**    | pending, TBA                                                                                            |
 
 
